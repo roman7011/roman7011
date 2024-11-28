@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm linux administrator
 
 <!--
 **roman7011/roman7011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
